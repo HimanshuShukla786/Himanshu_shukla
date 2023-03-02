@@ -13,7 +13,7 @@ A DevOps enthusiast from India
 
 📫 How to reach me Himanshu Shukla
 
-📄 Know about my experiences file:///C:/Users/himos/Desktop/HIMANSHU%20Resume1.pdf
+📄 Know about my experiences https://static.s123-cdn-static-c.com/uploads/7603269/normal_63fff45b1c9a7.pdf
 
 Languages and Tools:
 aws bash css3 docker git grafana html5 jenkins kubernetes linux mongodb mysql nginx
