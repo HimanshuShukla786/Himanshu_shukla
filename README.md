@@ -1,7 +1,8 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)]
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)]
 <h1 align="center">Hi 👋, I'm Himanshu Shukla</h1>
 <h3 align="center">A DevOps enthusiast from India</h3>
-<img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif">
+
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshushukla786&label=Profile%20views&color=0e75b6&style=flat" alt="himanshushukla786" /> </p>
 
@@ -21,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-shukla1542/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-shukla1542/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-shukla1542/" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg" alt="himanshu-shukla1542" height="30" width="40" /></a>
 <a href="https://instagram.com/himoshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himoshukla" height="30" width="40" /></a>
 <a href="https://medium.com/@himooshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@himooshukla" height="30" width="40" /></a>
 </p>
